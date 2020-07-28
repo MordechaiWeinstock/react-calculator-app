@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MordechaiWeinstock/react-calculator-app.git/static/css/main.20ab08b7.chunk.css",
+    "main.js": "/MordechaiWeinstock/react-calculator-app.git/static/js/main.2c0d71f9.chunk.js",
+    "main.js.map": "/MordechaiWeinstock/react-calculator-app.git/static/js/main.2c0d71f9.chunk.js.map",
+    "runtime-main.js": "/MordechaiWeinstock/react-calculator-app.git/static/js/runtime-main.32184b26.js",
+    "runtime-main.js.map": "/MordechaiWeinstock/react-calculator-app.git/static/js/runtime-main.32184b26.js.map",
+    "static/js/2.e83e8b22.chunk.js": "/MordechaiWeinstock/react-calculator-app.git/static/js/2.e83e8b22.chunk.js",
+    "static/js/2.e83e8b22.chunk.js.map": "/MordechaiWeinstock/react-calculator-app.git/static/js/2.e83e8b22.chunk.js.map",
+    "index.html": "/MordechaiWeinstock/react-calculator-app.git/index.html",
+    "precache-manifest.10682bf721f5d22fa30c56080e64a290.js": "/MordechaiWeinstock/react-calculator-app.git/precache-manifest.10682bf721f5d22fa30c56080e64a290.js",
+    "service-worker.js": "/MordechaiWeinstock/react-calculator-app.git/service-worker.js",
+    "static/css/main.20ab08b7.chunk.css.map": "/MordechaiWeinstock/react-calculator-app.git/static/css/main.20ab08b7.chunk.css.map",
+    "static/js/2.e83e8b22.chunk.js.LICENSE.txt": "/MordechaiWeinstock/react-calculator-app.git/static/js/2.e83e8b22.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32184b26.js",
+    "static/js/2.e83e8b22.chunk.js",
+    "static/css/main.20ab08b7.chunk.css",
+    "static/js/main.2c0d71f9.chunk.js"
+  ]
+}
